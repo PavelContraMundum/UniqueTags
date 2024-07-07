@@ -1,0 +1,14 @@
+D:\Programming\CSharp\UnikatniTagy\UnikatniTagy\bin\Debug\net8.0\UnikatniTagy.exe
+D:\Programming\CSharp\UnikatniTagy\UnikatniTagy\bin\Debug\net8.0\UnikatniTagy.deps.json
+D:\Programming\CSharp\UnikatniTagy\UnikatniTagy\bin\Debug\net8.0\UnikatniTagy.runtimeconfig.json
+D:\Programming\CSharp\UnikatniTagy\UnikatniTagy\bin\Debug\net8.0\UnikatniTagy.dll
+D:\Programming\CSharp\UnikatniTagy\UnikatniTagy\bin\Debug\net8.0\UnikatniTagy.pdb
+D:\Programming\CSharp\UnikatniTagy\UnikatniTagy\obj\Debug\net8.0\UnikatniTagy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\CSharp\UnikatniTagy\UnikatniTagy\obj\Debug\net8.0\UnikatniTagy.AssemblyInfoInputs.cache
+D:\Programming\CSharp\UnikatniTagy\UnikatniTagy\obj\Debug\net8.0\UnikatniTagy.AssemblyInfo.cs
+D:\Programming\CSharp\UnikatniTagy\UnikatniTagy\obj\Debug\net8.0\UnikatniTagy.csproj.CoreCompileInputs.cache
+D:\Programming\CSharp\UnikatniTagy\UnikatniTagy\obj\Debug\net8.0\UnikatniTagy.dll
+D:\Programming\CSharp\UnikatniTagy\UnikatniTagy\obj\Debug\net8.0\refint\UnikatniTagy.dll
+D:\Programming\CSharp\UnikatniTagy\UnikatniTagy\obj\Debug\net8.0\UnikatniTagy.pdb
+D:\Programming\CSharp\UnikatniTagy\UnikatniTagy\obj\Debug\net8.0\UnikatniTagy.genruntimeconfig.cache
+D:\Programming\CSharp\UnikatniTagy\UnikatniTagy\obj\Debug\net8.0\ref\UnikatniTagy.dll
